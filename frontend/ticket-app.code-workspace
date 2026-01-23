@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "frontend",
+			"path": "."
+		},
+		{
+			"name": "ticket-booking",
+			"path": "../ticket-booking"
+		},
+		{
+			"name": "ticket-booking-backend",
+			"path": "../ticket-booking-backend"
+		}
+	]
+}
